@@ -1,0 +1,8 @@
+distlib==0.3.4
+filelock==3.4.2
+nodeenv==1.6.0
+platformdirs==2.4.1
+pyglet==1.5.23
+pyright==0.0.13
+six==1.16.0
+virtualenv==20.13.0
